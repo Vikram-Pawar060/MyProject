@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RGB</name>
+	<description>[11] RGB
+subset_0_of_S1A_IW_GRDH_1SDV_crop_ML_Cal_TC_Stack</description>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<GroundOverlay>
+		<name>Raster data</name>
+		<Icon>
+			<href>overlay.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>26.71428086509275</north>
+			<south>25.62821768659225</south>
+			<east>90.99492569451886</east>
+			<west>89.70269915831292</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Document>
+</kml>
